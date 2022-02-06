@@ -1,2 +1,2 @@
 # Graph
-Pathfinding
+Pathfinding by inspect graphs
